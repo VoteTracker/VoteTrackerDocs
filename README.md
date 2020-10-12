@@ -6,7 +6,7 @@ description: Vote Tracker Docs
 
 ## Introduction
 
-Shonne will write some introduction here.
+ The Vote Tracker bot is a sophisticated vote tracking and logging system. It allows users to track votes for their server or bot on the well known [top.gg](https://top.gg/) server & bot listing site. The bot comes with many features such as tracking votes, creating custom vote log messages, view the top voters leaderboard, assign roles to be given out and/or removed once members have reached a certain number of votes and much more.
 
 ## Getting Started
 
