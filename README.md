@@ -1,5 +1,4 @@
-# Home
-## Vote Tracker Docs
+# Home ## Vote Tracker Docs
 
 
 ## Introduction
