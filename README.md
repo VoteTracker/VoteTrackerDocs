@@ -6,7 +6,9 @@ description: Vote Tracker Docs
 
 ## Introduction
 
-This is the default page. Some stuff about votetracker
+Shonne will write some introduction here.
 
-Changed file
+## Getting Started
+
+To start using Vote Tracker you need to set it up first. You can do this by following the steps in `vt!setup`If you need any additional help, check out the \[setup\]\(/commands/setup\) page.
 
