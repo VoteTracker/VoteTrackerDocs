@@ -28,3 +28,8 @@ description: How to configure Vote Tracker for your guild
 
 The latest settings can always be found through the bot. This list may not be always fully updated.
 
+| Module | Setting | Description |
+| :--- | :--- | :--- |
+| `vt!config set bot prefix .` | Change the bots prefix to `.` | Change the bots prefix to `.` |
+| `vt!config set votetracker log-channel #vote-logs` | Set the channel for vote logs to `#vote-logs` | Change the bots prefix to `.` |
+| `vt!config set votetracker voted-description %user#votes% has voted!` | Change the description part of the vote log embed | Change the bots prefix to `.` |
