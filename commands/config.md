@@ -1,6 +1,7 @@
 ---
-Configure Vote Tracker for your guild
+description: How to configure Vote Tracker for your guild
 ---
+
 # Config
 
 # Prefix
