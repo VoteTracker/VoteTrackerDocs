@@ -1,7 +1,7 @@
 # Table of contents
 
-* [Introduction](README.md)
-* [Test](test.md)
+* [Home](README.md)
+* [FAQ](FAQ.md)
 
 ## Commands
 
@@ -9,5 +9,7 @@
 
 ## Links
 
-* [Invite Vote Tracker](links/invite.md)
+* [Invite Vote Tracker](https://discord.com/oauth2/authorize?client_id=702134514637340702&permissions=335867088&scope=bot)
+* [Support Server](https://discord.gg/jxABfvJ)
+* [Vote For Us](https://top.gg/bot/702134514637340702)
 
