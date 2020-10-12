@@ -6,6 +6,7 @@
 ## Commands
 
 * [Config](commands/config.md)
+* [Setup](commands/setup.md)
 
 ## Links
 
